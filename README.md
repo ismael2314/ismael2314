@@ -10,9 +10,8 @@ Welcome to my GitHub profile! I'm passionate about Software Development and Web 
 -   Interested in: ML, Data Science, Python Development, Game Development
 
 <div align="center">
-
+    
 ## My Skills
-
 <p>
   <strong>
     
@@ -31,11 +30,6 @@ Welcome to my GitHub profile! I'm passionate about Software Development and Web 
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/02/react-logo-freelogovectors.net_.png" alt="react" style="display: inline-block; margin: 15px; width: 165px; height: 100px;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcgqVlv1uKFwmS7sxQam6PCWMsNiy1eiWvA&s" alt="nodejs" style="display: inline-block; margin: 15px; width: 100px; height: 100px;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZINvM67GmgTbwpiAUlD33goWl2vf4GDppg&s" alt="expressjs style="display: inline-block; margin: 15px; width: 270px; height: 100px;">
-</p>
-
-<p align="left">
-  <strong>:</strong> <br>
-  <code>MySql</code> <code>Microsoft SQL</code> <code>MongoDB</code>
 </p>
 
 <p>
