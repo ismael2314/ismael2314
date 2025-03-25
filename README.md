@@ -22,6 +22,9 @@ Welcome to my GitHub profile! I'm passionate about Software Development and Web 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Tz6MHwVSJK0MzevRXacOBDnwHww_ucV7rg&s" alt="C++" style="display: inline-block; margin: 15px; width: 100px; height: 100px;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEF3IDBSE42_pPkvBkXnMb5sfv9va71SASg&s" alt="C#" style="display: inline-block; margin: 15px; width: 100px; height: 100px;">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7kqqlm6pcJvhJbT7PeS-SRgyQmsRkxTFgQ&s" alt="Godot" style="display: inline-block; margin: 15px; width: 100px; height: 100px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Godot" style="display: inline-block; margin: 15px; width: 100px; height: 100px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPa10Yz3EeBbATAA1tPjqR_bF27dz82mKFTQ&s" alt="Godot" style="display: inline-block; margin: 15px; width: 100px; height: 100px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQsPmSv5JIgSQmX3TvykudhQGvAw4uAusKjQ&s" alt="Godot" style="display: inline-block; margin: 15px; width: 100px; height: 100px;">
 </p>
 <p>
   <strong> 
