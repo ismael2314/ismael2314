@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm passionate about Software Development and Web 
 <div align="center">
 
   [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismael2314&show_icons=true&theme=dark)](https://github.com/ismael2314)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael2314&layout=compact&theme=dark)](https://github.com/ismael2314)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael2314&layout=donut&theme=dark&langs_count=10)](https://github.com/ismael2314)
 </div>
 <p align="center">
   Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
